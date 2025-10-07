@@ -1,0 +1,5 @@
+    font:
+      normal:
+        family: monospace
+        style: Regular
+      size: 8 # Adjust this value to your preferred font size
