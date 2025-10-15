@@ -19,3 +19,7 @@ style = "Bold Italic"
 
 [window]
 opacity = 0.75
+
+[terminal.shell]
+program = "wsl.exe"
+
